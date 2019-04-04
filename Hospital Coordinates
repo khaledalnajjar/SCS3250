@@ -1,0 +1,7 @@
+# To be entered into Python
+import pandas as pd
+import numpy as np
+from geopy.distance
+
+# Set variable for hospital coordinates in Mississauga and bordering region
+hospitals = [[43.5713, 79.6084],[43.5594, 79.7033],[43.4507, 79.7639],[43.5733, 79.6097]]
